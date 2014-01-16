@@ -6,4 +6,7 @@ library to impove its stability
 Dependency
 ----------
 
-- libev (you can `apt-get install libev-dev`)
+- libev
+- gtk+-3.0
+
+if you use debian or ubuntu, you can `apt-get install libev-dev libgtk-3-dev`
